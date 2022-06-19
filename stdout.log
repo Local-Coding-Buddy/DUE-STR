@@ -1,0 +1,1401 @@
+> Executing step 0
+>> Running router on ./configurations/Rounds/test_vehicle_only_4corners.net.xml-analyze-25/str_sumo.rou.xml
+>>> Begin time: 2022-06-15 13:18:31.841647
+>>> End time: 2022-06-15 13:18:32.178644
+>>> Duration: 0:00:00.336997
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:18:32.178644
+>>> End time: 2022-06-15 13:18:34.286646
+>>> Duration: 0:00:02.108002
+<<
+< Step 0 ended (duration: 0:00:02.467000)
+------------------
+
+> Executing step 1
+>> Running router on 0\str_sumo_000.rou.alt.xml
+>>> Begin time: 2022-06-15 13:18:34.308648
+>>> End time: 2022-06-15 13:18:34.992650
+>>> Duration: 0:00:00.684002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:18:34.992650
+>>> End time: 2022-06-15 13:18:37.027645
+>>> Duration: 0:00:02.034995
+<<
+< Step 1 ended (duration: 0:00:02.718997)
+------------------
+
+> Executing step 2
+>> Running router on 1\str_sumo_001.rou.alt.xml
+>>> Begin time: 2022-06-15 13:18:37.088647
+>>> End time: 2022-06-15 13:18:37.543646
+>>> Duration: 0:00:00.454999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:18:37.543646
+>>> End time: 2022-06-15 13:18:40.132646
+>>> Duration: 0:00:02.589000
+<<
+< Step 2 ended (duration: 0:00:03.045003)
+------------------
+
+> Executing step 3
+>> Running router on 2\str_sumo_002.rou.alt.xml
+>>> Begin time: 2022-06-15 13:18:40.167647
+>>> End time: 2022-06-15 13:18:41.335646
+>>> Duration: 0:00:01.167999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:18:41.335646
+>>> End time: 2022-06-15 13:18:42.743648
+>>> Duration: 0:00:01.408002
+<<
+< Step 3 ended (duration: 0:00:02.576001)
+------------------
+
+> Executing step 4
+>> Running router on 3\str_sumo_003.rou.alt.xml
+>>> Begin time: 2022-06-15 13:18:42.771647
+>>> End time: 2022-06-15 13:18:43.657646
+>>> Duration: 0:00:00.885999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:18:43.657646
+>>> End time: 2022-06-15 13:18:44.912644
+>>> Duration: 0:00:01.254998
+<<
+< Step 4 ended (duration: 0:00:02.142001)
+------------------
+
+> Executing step 5
+>> Running router on 4\str_sumo_004.rou.alt.xml
+>>> Begin time: 2022-06-15 13:18:45.193643
+>>> End time: 2022-06-15 13:18:49.791644
+>>> Duration: 0:00:04.598001
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:18:49.791644
+>>> End time: 2022-06-15 13:18:51.167645
+>>> Duration: 0:00:01.376001
+<<
+< Step 5 ended (duration: 0:00:05.974002)
+------------------
+
+> Executing step 6
+>> Running router on 5\str_sumo_005.rou.alt.xml
+>>> Begin time: 2022-06-15 13:18:51.223649
+>>> End time: 2022-06-15 13:18:51.728643
+>>> Duration: 0:00:00.504994
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:18:51.728643
+>>> End time: 2022-06-15 13:18:53.065646
+>>> Duration: 0:00:01.337003
+<<
+< Step 6 ended (duration: 0:00:01.841997)
+------------------
+
+> Executing step 7
+>> Running router on 6\str_sumo_006.rou.alt.xml
+>>> Begin time: 2022-06-15 13:18:53.132647
+>>> End time: 2022-06-15 13:19:00.726644
+>>> Duration: 0:00:07.593997
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:00.726644
+>>> End time: 2022-06-15 13:19:02.006648
+>>> Duration: 0:00:01.280004
+<<
+< Step 7 ended (duration: 0:00:08.876000)
+------------------
+
+> Executing step 8
+>> Running router on 7\str_sumo_007.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:02.463644
+>>> End time: 2022-06-15 13:19:02.945646
+>>> Duration: 0:00:00.482002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:02.945646
+>>> End time: 2022-06-15 13:19:04.165647
+>>> Duration: 0:00:01.220001
+<<
+< Step 8 ended (duration: 0:00:01.702003)
+------------------
+
+> Executing step 9
+>> Running router on 8\str_sumo_008.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:04.254646
+>>> End time: 2022-06-15 13:19:05.448648
+>>> Duration: 0:00:01.194002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:05.449646
+>>> End time: 2022-06-15 13:19:07.591646
+>>> Duration: 0:00:02.142000
+<<
+< Step 9 ended (duration: 0:00:03.338000)
+------------------
+
+> Executing step 10
+>> Running router on 9\str_sumo_009.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:07.963645
+>>> End time: 2022-06-15 13:19:12.137322
+>>> Duration: 0:00:04.173677
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:12.137322
+>>> End time: 2022-06-15 13:19:14.022320
+>>> Duration: 0:00:01.884998
+<<
+< Step 10 ended (duration: 0:00:06.058675)
+------------------
+
+> Executing step 11
+>> Running router on 10\str_sumo_010.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:14.059323
+>>> End time: 2022-06-15 13:19:15.162321
+>>> Duration: 0:00:01.102998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:15.162321
+>>> End time: 2022-06-15 13:19:17.077320
+>>> Duration: 0:00:01.914999
+<<
+< Step 11 ended (duration: 0:00:03.017997)
+------------------
+
+> Executing step 12
+>> Running router on 11\str_sumo_011.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:17.098324
+>>> End time: 2022-06-15 13:19:17.429323
+>>> Duration: 0:00:00.330999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:17.429323
+>>> End time: 2022-06-15 13:19:18.813320
+>>> Duration: 0:00:01.383997
+<<
+< Step 12 ended (duration: 0:00:01.714996)
+------------------
+
+> Executing step 13
+>> Running router on 12\str_sumo_012.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:18.832320
+>>> End time: 2022-06-15 13:19:19.186322
+>>> Duration: 0:00:00.354002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:19.186322
+>>> End time: 2022-06-15 13:19:20.311322
+>>> Duration: 0:00:01.125000
+<<
+< Step 13 ended (duration: 0:00:01.479002)
+------------------
+
+> Executing step 14
+>> Running router on 13\str_sumo_013.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:20.338321
+>>> End time: 2022-06-15 13:19:21.002323
+>>> Duration: 0:00:00.664002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:21.003323
+>>> End time: 2022-06-15 13:19:22.743323
+>>> Duration: 0:00:01.740000
+<<
+< Step 14 ended (duration: 0:00:02.405002)
+------------------
+
+> Executing step 15
+>> Running router on 14\str_sumo_014.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:22.760322
+>>> End time: 2022-06-15 13:19:23.305319
+>>> Duration: 0:00:00.544997
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:23.305319
+>>> End time: 2022-06-15 13:19:24.408322
+>>> Duration: 0:00:01.103003
+<<
+< Step 15 ended (duration: 0:00:01.648000)
+------------------
+
+> Executing step 16
+>> Running router on 15\str_sumo_015.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:24.460321
+>>> End time: 2022-06-15 13:19:24.860319
+>>> Duration: 0:00:00.399998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:24.860319
+>>> End time: 2022-06-15 13:19:25.819319
+>>> Duration: 0:00:00.959000
+<<
+< Step 16 ended (duration: 0:00:01.359997)
+------------------
+
+> Executing step 17
+>> Running router on 16\str_sumo_016.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:25.847320
+>>> End time: 2022-06-15 13:19:26.251323
+>>> Duration: 0:00:00.404003
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:26.251323
+>>> End time: 2022-06-15 13:19:27.752320
+>>> Duration: 0:00:01.500997
+<<
+< Step 17 ended (duration: 0:00:01.905000)
+------------------
+
+> Executing step 18
+>> Running router on 17\str_sumo_017.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:27.780318
+>>> End time: 2022-06-15 13:19:28.336321
+>>> Duration: 0:00:00.556003
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:28.336321
+>>> End time: 2022-06-15 13:19:29.697318
+>>> Duration: 0:00:01.360997
+<<
+< Step 18 ended (duration: 0:00:01.917000)
+------------------
+
+> Executing step 19
+>> Running router on 18\str_sumo_018.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:29.725322
+>>> End time: 2022-06-15 13:19:30.076319
+>>> Duration: 0:00:00.350997
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:30.076319
+>>> End time: 2022-06-15 13:19:31.332323
+>>> Duration: 0:00:01.256004
+<<
+< Step 19 ended (duration: 0:00:01.607001)
+------------------
+
+> Executing step 20
+>> Running router on 19\str_sumo_019.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:31.412320
+>>> End time: 2022-06-15 13:19:31.929321
+>>> Duration: 0:00:00.517001
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:31.929321
+>>> End time: 2022-06-15 13:19:33.086320
+>>> Duration: 0:00:01.156999
+<<
+< Step 20 ended (duration: 0:00:01.674000)
+------------------
+
+> Executing step 21
+>> Running router on 20\str_sumo_020.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:33.108324
+>>> End time: 2022-06-15 13:19:33.562321
+>>> Duration: 0:00:00.453997
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:33.562321
+>>> End time: 2022-06-15 13:19:34.811321
+>>> Duration: 0:00:01.249000
+<<
+< Step 21 ended (duration: 0:00:01.702997)
+------------------
+
+> Executing step 22
+>> Running router on 21\str_sumo_021.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:34.840322
+>>> End time: 2022-06-15 13:19:35.203320
+>>> Duration: 0:00:00.362998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:35.203320
+>>> End time: 2022-06-15 13:19:36.252321
+>>> Duration: 0:00:01.049001
+<<
+< Step 22 ended (duration: 0:00:01.412998)
+------------------
+
+> Executing step 23
+>> Running router on 22\str_sumo_022.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:36.276323
+>>> End time: 2022-06-15 13:19:36.678321
+>>> Duration: 0:00:00.401998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:36.678321
+>>> End time: 2022-06-15 13:19:37.865322
+>>> Duration: 0:00:01.187001
+<<
+< Step 23 ended (duration: 0:00:01.589998)
+------------------
+
+> Executing step 24
+>> Running router on 23\str_sumo_023.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:37.885319
+>>> End time: 2022-06-15 13:19:38.210320
+>>> Duration: 0:00:00.325001
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:38.210320
+>>> End time: 2022-06-15 13:19:39.496319
+>>> Duration: 0:00:01.285999
+<<
+< Step 24 ended (duration: 0:00:01.611000)
+------------------
+
+> Executing step 25
+>> Running router on 24\str_sumo_024.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:39.504319
+>>> End time: 2022-06-15 13:19:39.827320
+>>> Duration: 0:00:00.323001
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:39.827320
+>>> End time: 2022-06-15 13:19:40.815322
+>>> Duration: 0:00:00.988002
+<<
+< Step 25 ended (duration: 0:00:01.312002)
+------------------
+
+> Executing step 26
+>> Running router on 25\str_sumo_025.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:40.830321
+>>> End time: 2022-06-15 13:19:41.395323
+>>> Duration: 0:00:00.565002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:41.395323
+>>> End time: 2022-06-15 13:19:42.594321
+>>> Duration: 0:00:01.198998
+<<
+< Step 26 ended (duration: 0:00:01.764000)
+------------------
+
+> Executing step 27
+>> Running router on 26\str_sumo_026.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:42.606321
+>>> End time: 2022-06-15 13:19:42.981321
+>>> Duration: 0:00:00.375000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:42.981321
+>>> End time: 2022-06-15 13:19:44.394321
+>>> Duration: 0:00:01.413000
+<<
+< Step 27 ended (duration: 0:00:01.788000)
+------------------
+
+> Executing step 28
+>> Running router on 27\str_sumo_027.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:44.402319
+>>> End time: 2022-06-15 13:19:44.726318
+>>> Duration: 0:00:00.323999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:44.726318
+>>> End time: 2022-06-15 13:19:45.695322
+>>> Duration: 0:00:00.969004
+<<
+< Step 28 ended (duration: 0:00:01.294004)
+------------------
+
+> Executing step 29
+>> Running router on 28\str_sumo_028.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:45.739319
+>>> End time: 2022-06-15 13:19:46.151321
+>>> Duration: 0:00:00.412002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:46.151321
+>>> End time: 2022-06-15 13:19:47.336319
+>>> Duration: 0:00:01.184998
+<<
+< Step 29 ended (duration: 0:00:01.597000)
+------------------
+
+> Executing step 30
+>> Running router on 29\str_sumo_029.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:47.365320
+>>> End time: 2022-06-15 13:19:47.929320
+>>> Duration: 0:00:00.564000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:47.929320
+>>> End time: 2022-06-15 13:19:48.842324
+>>> Duration: 0:00:00.913004
+<<
+< Step 30 ended (duration: 0:00:01.477004)
+------------------
+
+> Executing step 31
+>> Running router on 30\str_sumo_030.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:48.862321
+>>> End time: 2022-06-15 13:19:49.320320
+>>> Duration: 0:00:00.457999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:49.320320
+>>> End time: 2022-06-15 13:19:50.313320
+>>> Duration: 0:00:00.993000
+<<
+< Step 31 ended (duration: 0:00:01.450999)
+------------------
+
+> Executing step 32
+>> Running router on 31\str_sumo_031.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:50.332319
+>>> End time: 2022-06-15 13:19:50.661320
+>>> Duration: 0:00:00.329001
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:50.661320
+>>> End time: 2022-06-15 13:19:51.617321
+>>> Duration: 0:00:00.956001
+<<
+< Step 32 ended (duration: 0:00:01.285002)
+------------------
+
+> Executing step 33
+>> Running router on 32\str_sumo_032.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:51.678321
+>>> End time: 2022-06-15 13:19:52.147320
+>>> Duration: 0:00:00.468999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:52.147320
+>>> End time: 2022-06-15 13:19:53.255320
+>>> Duration: 0:00:01.108000
+<<
+< Step 33 ended (duration: 0:00:01.576999)
+------------------
+
+> Executing step 34
+>> Running router on 33\str_sumo_033.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:53.286322
+>>> End time: 2022-06-15 13:19:53.725325
+>>> Duration: 0:00:00.439003
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:53.725325
+>>> End time: 2022-06-15 13:19:54.993321
+>>> Duration: 0:00:01.267996
+<<
+< Step 34 ended (duration: 0:00:01.706999)
+------------------
+
+> Executing step 35
+>> Running router on 34\str_sumo_034.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:54.997321
+>>> End time: 2022-06-15 13:19:55.351321
+>>> Duration: 0:00:00.354000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:55.351321
+>>> End time: 2022-06-15 13:19:56.334320
+>>> Duration: 0:00:00.982999
+<<
+< Step 35 ended (duration: 0:00:01.336999)
+------------------
+
+> Executing step 36
+>> Running router on 35\str_sumo_035.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:56.360321
+>>> End time: 2022-06-15 13:19:56.833321
+>>> Duration: 0:00:00.473000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:56.833321
+>>> End time: 2022-06-15 13:19:57.819320
+>>> Duration: 0:00:00.985999
+<<
+< Step 36 ended (duration: 0:00:01.458999)
+------------------
+
+> Executing step 37
+>> Running router on 36\str_sumo_036.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:57.845321
+>>> End time: 2022-06-15 13:19:58.210321
+>>> Duration: 0:00:00.365000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:58.211319
+>>> End time: 2022-06-15 13:19:59.455321
+>>> Duration: 0:00:01.244002
+<<
+< Step 37 ended (duration: 0:00:01.610000)
+------------------
+
+> Executing step 38
+>> Running router on 37\str_sumo_037.rou.alt.xml
+>>> Begin time: 2022-06-15 13:19:59.484320
+>>> End time: 2022-06-15 13:19:59.803320
+>>> Duration: 0:00:00.319000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:19:59.803320
+>>> End time: 2022-06-15 13:20:00.946320
+>>> Duration: 0:00:01.143000
+<<
+< Step 38 ended (duration: 0:00:01.463002)
+------------------
+
+> Executing step 39
+>> Running router on 38\str_sumo_038.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:00.970318
+>>> End time: 2022-06-15 13:20:01.344320
+>>> Duration: 0:00:00.374002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:01.344320
+>>> End time: 2022-06-15 13:20:02.569319
+>>> Duration: 0:00:01.224999
+<<
+< Step 39 ended (duration: 0:00:01.599001)
+------------------
+
+> Executing step 40
+>> Running router on 39\str_sumo_039.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:02.592325
+>>> End time: 2022-06-15 13:20:02.949321
+>>> Duration: 0:00:00.356996
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:02.949321
+>>> End time: 2022-06-15 13:20:03.947320
+>>> Duration: 0:00:00.997999
+<<
+< Step 40 ended (duration: 0:00:01.355999)
+------------------
+
+> Executing step 41
+>> Running router on 40\str_sumo_040.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:03.978322
+>>> End time: 2022-06-15 13:20:04.479320
+>>> Duration: 0:00:00.500998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:04.479320
+>>> End time: 2022-06-15 13:20:05.446320
+>>> Duration: 0:00:00.967000
+<<
+< Step 41 ended (duration: 0:00:01.467998)
+------------------
+
+> Executing step 42
+>> Running router on 41\str_sumo_041.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:05.468322
+>>> End time: 2022-06-15 13:20:05.778320
+>>> Duration: 0:00:00.309998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:05.778320
+>>> End time: 2022-06-15 13:20:06.933320
+>>> Duration: 0:00:01.155000
+<<
+< Step 42 ended (duration: 0:00:01.464998)
+------------------
+
+> Executing step 43
+>> Running router on 42\str_sumo_042.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:06.959322
+>>> End time: 2022-06-15 13:20:07.345320
+>>> Duration: 0:00:00.385998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:07.345320
+>>> End time: 2022-06-15 13:20:08.746321
+>>> Duration: 0:00:01.401001
+<<
+< Step 43 ended (duration: 0:00:01.786999)
+------------------
+
+> Executing step 44
+>> Running router on 43\str_sumo_043.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:08.792323
+>>> End time: 2022-06-15 13:20:09.197320
+>>> Duration: 0:00:00.404997
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:09.197320
+>>> End time: 2022-06-15 13:20:10.962321
+>>> Duration: 0:00:01.765001
+<<
+< Step 44 ended (duration: 0:00:02.169998)
+------------------
+
+> Executing step 45
+>> Running router on 44\str_sumo_044.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:11.045319
+>>> End time: 2022-06-15 13:20:11.487318
+>>> Duration: 0:00:00.441999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:11.487318
+>>> End time: 2022-06-15 13:20:12.579325
+>>> Duration: 0:00:01.092007
+<<
+< Step 45 ended (duration: 0:00:01.535004)
+------------------
+
+> Executing step 46
+>> Running router on 45\str_sumo_045.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:12.600320
+>>> End time: 2022-06-15 13:20:13.000321
+>>> Duration: 0:00:00.400001
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:13.000321
+>>> End time: 2022-06-15 13:20:14.013322
+>>> Duration: 0:00:01.013001
+<<
+< Step 46 ended (duration: 0:00:01.414002)
+------------------
+
+> Executing step 47
+>> Running router on 46\str_sumo_046.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:14.033318
+>>> End time: 2022-06-15 13:20:14.382322
+>>> Duration: 0:00:00.349004
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:14.382322
+>>> End time: 2022-06-15 13:20:15.962322
+>>> Duration: 0:00:01.580000
+<<
+< Step 47 ended (duration: 0:00:01.929004)
+------------------
+
+> Executing step 48
+>> Running router on 47\str_sumo_047.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:15.983318
+>>> End time: 2022-06-15 13:20:16.371320
+>>> Duration: 0:00:00.388002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:16.371320
+>>> End time: 2022-06-15 13:20:17.479319
+>>> Duration: 0:00:01.107999
+<<
+< Step 48 ended (duration: 0:00:01.496001)
+------------------
+
+> Executing step 49
+>> Running router on 48\str_sumo_048.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:17.490318
+>>> End time: 2022-06-15 13:20:17.982321
+>>> Duration: 0:00:00.492003
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:17.982321
+>>> End time: 2022-06-15 13:20:19.006321
+>>> Duration: 0:00:01.024000
+<<
+< Step 49 ended (duration: 0:00:01.516003)
+------------------
+
+> Executing step 50
+>> Running router on 49\str_sumo_049.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:19.010323
+>>> End time: 2022-06-15 13:20:19.428321
+>>> Duration: 0:00:00.417998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:19.429320
+>>> End time: 2022-06-15 13:20:20.978323
+>>> Duration: 0:00:01.549003
+<<
+< Step 50 ended (duration: 0:00:01.968000)
+------------------
+
+> Executing step 51
+>> Running router on 50\str_sumo_050.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:20.997322
+>>> End time: 2022-06-15 13:20:21.414322
+>>> Duration: 0:00:00.417000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:21.414322
+>>> End time: 2022-06-15 13:20:22.514323
+>>> Duration: 0:00:01.100001
+<<
+< Step 51 ended (duration: 0:00:01.519001)
+------------------
+
+> Executing step 52
+>> Running router on 51\str_sumo_051.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:22.540321
+>>> End time: 2022-06-15 13:20:23.070323
+>>> Duration: 0:00:00.530002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:23.070323
+>>> End time: 2022-06-15 13:20:24.164319
+>>> Duration: 0:00:01.093996
+<<
+< Step 52 ended (duration: 0:00:01.624998)
+------------------
+
+> Executing step 53
+>> Running router on 52\str_sumo_052.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:24.169321
+>>> End time: 2022-06-15 13:20:24.607321
+>>> Duration: 0:00:00.438000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:24.607321
+>>> End time: 2022-06-15 13:20:26.090321
+>>> Duration: 0:00:01.483000
+<<
+< Step 53 ended (duration: 0:00:01.921000)
+------------------
+
+> Executing step 54
+>> Running router on 53\str_sumo_053.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:26.119320
+>>> End time: 2022-06-15 13:20:26.564321
+>>> Duration: 0:00:00.445001
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:26.564321
+>>> End time: 2022-06-15 13:20:27.961322
+>>> Duration: 0:00:01.397001
+<<
+< Step 54 ended (duration: 0:00:01.842002)
+------------------
+
+> Executing step 55
+>> Running router on 54\str_sumo_054.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:27.987319
+>>> End time: 2022-06-15 13:20:28.300321
+>>> Duration: 0:00:00.313002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:28.300321
+>>> End time: 2022-06-15 13:20:29.289320
+>>> Duration: 0:00:00.988999
+<<
+< Step 55 ended (duration: 0:00:01.302001)
+------------------
+
+> Executing step 56
+>> Running router on 55\str_sumo_055.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:29.313321
+>>> End time: 2022-06-15 13:20:29.817321
+>>> Duration: 0:00:00.504000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:29.817321
+>>> End time: 2022-06-15 13:20:30.814320
+>>> Duration: 0:00:00.996999
+<<
+< Step 56 ended (duration: 0:00:01.500999)
+------------------
+
+> Executing step 57
+>> Running router on 56\str_sumo_056.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:30.835319
+>>> End time: 2022-06-15 13:20:31.153320
+>>> Duration: 0:00:00.318001
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:31.153320
+>>> End time: 2022-06-15 13:20:32.668321
+>>> Duration: 0:00:01.515001
+<<
+< Step 57 ended (duration: 0:00:01.833002)
+------------------
+
+> Executing step 58
+>> Running router on 57\str_sumo_057.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:32.699318
+>>> End time: 2022-06-15 13:20:33.148321
+>>> Duration: 0:00:00.449003
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:33.148321
+>>> End time: 2022-06-15 13:20:34.520324
+>>> Duration: 0:00:01.372003
+<<
+< Step 58 ended (duration: 0:00:01.821006)
+------------------
+
+> Executing step 59
+>> Running router on 58\str_sumo_058.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:34.539323
+>>> End time: 2022-06-15 13:20:34.915320
+>>> Duration: 0:00:00.375997
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:34.915320
+>>> End time: 2022-06-15 13:20:35.835319
+>>> Duration: 0:00:00.919999
+<<
+< Step 59 ended (duration: 0:00:01.295996)
+------------------
+
+> Executing step 60
+>> Running router on 59\str_sumo_059.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:35.856322
+>>> End time: 2022-06-15 13:20:36.202321
+>>> Duration: 0:00:00.345999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:36.202321
+>>> End time: 2022-06-15 13:20:37.704322
+>>> Duration: 0:00:01.502001
+<<
+< Step 60 ended (duration: 0:00:01.848000)
+------------------
+
+> Executing step 61
+>> Running router on 60\str_sumo_060.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:37.732319
+>>> End time: 2022-06-15 13:20:38.166322
+>>> Duration: 0:00:00.434003
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:38.166322
+>>> End time: 2022-06-15 13:20:39.179320
+>>> Duration: 0:00:01.012998
+<<
+< Step 61 ended (duration: 0:00:01.447001)
+------------------
+
+> Executing step 62
+>> Running router on 61\str_sumo_061.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:39.195320
+>>> End time: 2022-06-15 13:20:39.680321
+>>> Duration: 0:00:00.485001
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:39.680321
+>>> End time: 2022-06-15 13:20:40.867320
+>>> Duration: 0:00:01.186999
+<<
+< Step 62 ended (duration: 0:00:01.672000)
+------------------
+
+> Executing step 63
+>> Running router on 62\str_sumo_062.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:40.871320
+>>> End time: 2022-06-15 13:20:41.231320
+>>> Duration: 0:00:00.360000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:41.231320
+>>> End time: 2022-06-15 13:20:42.483321
+>>> Duration: 0:00:01.252001
+<<
+< Step 63 ended (duration: 0:00:01.612001)
+------------------
+
+> Executing step 64
+>> Running router on 63\str_sumo_063.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:42.504322
+>>> End time: 2022-06-15 13:20:43.036319
+>>> Duration: 0:00:00.531997
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:43.036319
+>>> End time: 2022-06-15 13:20:44.018319
+>>> Duration: 0:00:00.982000
+<<
+< Step 64 ended (duration: 0:00:01.513997)
+------------------
+
+> Executing step 65
+>> Running router on 64\str_sumo_064.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:44.031319
+>>> End time: 2022-06-15 13:20:44.381319
+>>> Duration: 0:00:00.350000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:44.381319
+>>> End time: 2022-06-15 13:20:45.680322
+>>> Duration: 0:00:01.299003
+<<
+< Step 65 ended (duration: 0:00:01.649003)
+------------------
+
+> Executing step 66
+>> Running router on 65\str_sumo_065.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:45.703318
+>>> End time: 2022-06-15 13:20:46.038321
+>>> Duration: 0:00:00.335003
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:46.038321
+>>> End time: 2022-06-15 13:20:46.998320
+>>> Duration: 0:00:00.959999
+<<
+< Step 66 ended (duration: 0:00:01.295002)
+------------------
+
+> Executing step 67
+>> Running router on 66\str_sumo_066.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:47.017321
+>>> End time: 2022-06-15 13:20:47.505321
+>>> Duration: 0:00:00.488000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:47.506323
+>>> End time: 2022-06-15 13:20:48.517320
+>>> Duration: 0:00:01.010997
+<<
+< Step 67 ended (duration: 0:00:01.499999)
+------------------
+
+> Executing step 68
+>> Running router on 67\str_sumo_067.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:48.521319
+>>> End time: 2022-06-15 13:20:48.881321
+>>> Duration: 0:00:00.360002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:48.881321
+>>> End time: 2022-06-15 13:20:50.221321
+>>> Duration: 0:00:01.340000
+<<
+< Step 68 ended (duration: 0:00:01.700002)
+------------------
+
+> Executing step 69
+>> Running router on 68\str_sumo_068.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:50.235320
+>>> End time: 2022-06-15 13:20:50.585318
+>>> Duration: 0:00:00.349998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:50.585318
+>>> End time: 2022-06-15 13:20:51.679321
+>>> Duration: 0:00:01.094003
+<<
+< Step 69 ended (duration: 0:00:01.444001)
+------------------
+
+> Executing step 70
+>> Running router on 69\str_sumo_069.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:51.684322
+>>> End time: 2022-06-15 13:20:52.150320
+>>> Duration: 0:00:00.465998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:52.151321
+>>> End time: 2022-06-15 13:20:53.184319
+>>> Duration: 0:00:01.032998
+<<
+< Step 70 ended (duration: 0:00:01.499997)
+------------------
+
+> Executing step 71
+>> Running router on 70\str_sumo_070.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:53.198321
+>>> End time: 2022-06-15 13:20:53.546319
+>>> Duration: 0:00:00.347998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:53.546319
+>>> End time: 2022-06-15 13:20:54.637322
+>>> Duration: 0:00:01.091003
+<<
+< Step 71 ended (duration: 0:00:01.439001)
+------------------
+
+> Executing step 72
+>> Running router on 71\str_sumo_071.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:54.661322
+>>> End time: 2022-06-15 13:20:55.094321
+>>> Duration: 0:00:00.432999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:55.094321
+>>> End time: 2022-06-15 13:20:56.133320
+>>> Duration: 0:00:01.038999
+<<
+< Step 72 ended (duration: 0:00:01.471998)
+------------------
+
+> Executing step 73
+>> Running router on 72\str_sumo_072.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:56.147321
+>>> End time: 2022-06-15 13:20:56.478321
+>>> Duration: 0:00:00.331000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:56.478321
+>>> End time: 2022-06-15 13:20:58.087318
+>>> Duration: 0:00:01.608997
+<<
+< Step 73 ended (duration: 0:00:01.939997)
+------------------
+
+> Executing step 74
+>> Running router on 73\str_sumo_073.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:58.092318
+>>> End time: 2022-06-15 13:20:58.420320
+>>> Duration: 0:00:00.328002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:20:58.420320
+>>> End time: 2022-06-15 13:20:59.407322
+>>> Duration: 0:00:00.987002
+<<
+< Step 74 ended (duration: 0:00:01.315004)
+------------------
+
+> Executing step 75
+>> Running router on 74\str_sumo_074.rou.alt.xml
+>>> Begin time: 2022-06-15 13:20:59.449321
+>>> End time: 2022-06-15 13:21:00.163320
+>>> Duration: 0:00:00.713999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:00.163320
+>>> End time: 2022-06-15 13:21:01.132321
+>>> Duration: 0:00:00.969001
+<<
+< Step 75 ended (duration: 0:00:01.683000)
+------------------
+
+> Executing step 76
+>> Running router on 75\str_sumo_075.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:01.160323
+>>> End time: 2022-06-15 13:21:01.480320
+>>> Duration: 0:00:00.319997
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:01.480320
+>>> End time: 2022-06-15 13:21:02.695323
+>>> Duration: 0:00:01.215003
+<<
+< Step 76 ended (duration: 0:00:01.535000)
+------------------
+
+> Executing step 77
+>> Running router on 76\str_sumo_076.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:02.708319
+>>> End time: 2022-06-15 13:21:03.037318
+>>> Duration: 0:00:00.328999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:03.037318
+>>> End time: 2022-06-15 13:21:04.099320
+>>> Duration: 0:00:01.062002
+<<
+< Step 77 ended (duration: 0:00:01.391001)
+------------------
+
+> Executing step 78
+>> Running router on 77\str_sumo_077.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:04.130321
+>>> End time: 2022-06-15 13:21:04.554321
+>>> Duration: 0:00:00.424000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:04.554321
+>>> End time: 2022-06-15 13:21:05.885322
+>>> Duration: 0:00:01.331001
+<<
+< Step 78 ended (duration: 0:00:01.756003)
+------------------
+
+> Executing step 79
+>> Running router on 78\str_sumo_078.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:05.896324
+>>> End time: 2022-06-15 13:21:06.272322
+>>> Duration: 0:00:00.375998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:06.272322
+>>> End time: 2022-06-15 13:21:07.354320
+>>> Duration: 0:00:01.081998
+<<
+< Step 79 ended (duration: 0:00:01.457996)
+------------------
+
+> Executing step 80
+>> Running router on 79\str_sumo_079.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:07.368320
+>>> End time: 2022-06-15 13:21:07.930322
+>>> Duration: 0:00:00.562002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:07.930322
+>>> End time: 2022-06-15 13:21:08.951322
+>>> Duration: 0:00:01.021000
+<<
+< Step 80 ended (duration: 0:00:01.583002)
+------------------
+
+> Executing step 81
+>> Running router on 80\str_sumo_080.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:08.981321
+>>> End time: 2022-06-15 13:21:09.473321
+>>> Duration: 0:00:00.492000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:09.473321
+>>> End time: 2022-06-15 13:21:11.011324
+>>> Duration: 0:00:01.538003
+<<
+< Step 81 ended (duration: 0:00:02.030003)
+------------------
+
+> Executing step 82
+>> Running router on 81\str_sumo_081.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:11.032322
+>>> End time: 2022-06-15 13:21:11.380321
+>>> Duration: 0:00:00.347999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:11.380321
+>>> End time: 2022-06-15 13:21:12.930322
+>>> Duration: 0:00:01.550001
+<<
+< Step 82 ended (duration: 0:00:01.898000)
+------------------
+
+> Executing step 83
+>> Running router on 82\str_sumo_082.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:13.161322
+>>> End time: 2022-06-15 13:21:13.505320
+>>> Duration: 0:00:00.343998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:13.505320
+>>> End time: 2022-06-15 13:21:14.744321
+>>> Duration: 0:00:01.239001
+<<
+< Step 83 ended (duration: 0:00:01.584000)
+------------------
+
+> Executing step 84
+>> Running router on 83\str_sumo_083.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:14.786321
+>>> End time: 2022-06-15 13:21:15.330322
+>>> Duration: 0:00:00.544001
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:15.330322
+>>> End time: 2022-06-15 13:21:16.481320
+>>> Duration: 0:00:01.150998
+<<
+< Step 84 ended (duration: 0:00:01.694999)
+------------------
+
+> Executing step 85
+>> Running router on 84\str_sumo_084.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:16.496325
+>>> End time: 2022-06-15 13:21:16.993320
+>>> Duration: 0:00:00.496995
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:16.993320
+>>> End time: 2022-06-15 13:21:18.881320
+>>> Duration: 0:00:01.888000
+<<
+< Step 85 ended (duration: 0:00:02.384995)
+------------------
+
+> Executing step 86
+>> Running router on 85\str_sumo_085.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:18.906319
+>>> End time: 2022-06-15 13:21:19.349321
+>>> Duration: 0:00:00.443002
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:19.349321
+>>> End time: 2022-06-15 13:21:20.458321
+>>> Duration: 0:00:01.109000
+<<
+< Step 86 ended (duration: 0:00:01.552002)
+------------------
+
+> Executing step 87
+>> Running router on 86\str_sumo_086.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:20.480319
+>>> End time: 2022-06-15 13:21:20.885319
+>>> Duration: 0:00:00.405000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:20.886321
+>>> End time: 2022-06-15 13:21:23.001320
+>>> Duration: 0:00:02.114999
+<<
+< Step 87 ended (duration: 0:00:02.521001)
+------------------
+
+> Executing step 88
+>> Running router on 87\str_sumo_087.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:23.014321
+>>> End time: 2022-06-15 13:21:23.366320
+>>> Duration: 0:00:00.351999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:23.366320
+>>> End time: 2022-06-15 13:21:24.682321
+>>> Duration: 0:00:01.316001
+<<
+< Step 88 ended (duration: 0:00:01.668000)
+------------------
+
+> Executing step 89
+>> Running router on 88\str_sumo_088.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:24.704318
+>>> End time: 2022-06-15 13:21:25.138321
+>>> Duration: 0:00:00.434003
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:25.138321
+>>> End time: 2022-06-15 13:21:26.151321
+>>> Duration: 0:00:01.013000
+<<
+< Step 89 ended (duration: 0:00:01.447003)
+------------------
+
+> Executing step 90
+>> Running router on 89\str_sumo_089.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:26.181322
+>>> End time: 2022-06-15 13:21:26.770320
+>>> Duration: 0:00:00.588998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:26.770320
+>>> End time: 2022-06-15 13:21:27.850320
+>>> Duration: 0:00:01.080000
+<<
+< Step 90 ended (duration: 0:00:01.668998)
+------------------
+
+> Executing step 91
+>> Running router on 90\str_sumo_090.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:33.194322
+>>> End time: 2022-06-15 13:21:33.764321
+>>> Duration: 0:00:00.569999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:33.764321
+>>> End time: 2022-06-15 13:21:35.568320
+>>> Duration: 0:00:01.803999
+<<
+< Step 91 ended (duration: 0:00:02.373998)
+------------------
+
+> Executing step 92
+>> Running router on 91\str_sumo_091.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:35.612321
+>>> End time: 2022-06-15 13:21:35.955319
+>>> Duration: 0:00:00.342998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:35.955319
+>>> End time: 2022-06-15 13:21:37.402319
+>>> Duration: 0:00:01.447000
+<<
+< Step 92 ended (duration: 0:00:01.790997)
+------------------
+
+> Executing step 93
+>> Running router on 92\str_sumo_092.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:37.564320
+>>> End time: 2022-06-15 13:21:37.998319
+>>> Duration: 0:00:00.433999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:37.998319
+>>> End time: 2022-06-15 13:21:39.418320
+>>> Duration: 0:00:01.420001
+<<
+< Step 93 ended (duration: 0:00:01.854000)
+------------------
+
+> Executing step 94
+>> Running router on 93\str_sumo_093.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:39.441321
+>>> End time: 2022-06-15 13:21:39.871319
+>>> Duration: 0:00:00.429998
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:39.871319
+>>> End time: 2022-06-15 13:21:40.944320
+>>> Duration: 0:00:01.073001
+<<
+< Step 94 ended (duration: 0:00:01.502999)
+------------------
+
+> Executing step 95
+>> Running router on 94\str_sumo_094.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:40.965322
+>>> End time: 2022-06-15 13:21:41.439321
+>>> Duration: 0:00:00.473999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:41.439321
+>>> End time: 2022-06-15 13:21:42.754321
+>>> Duration: 0:00:01.315000
+<<
+< Step 95 ended (duration: 0:00:01.788999)
+------------------
+
+> Executing step 96
+>> Running router on 95\str_sumo_095.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:42.776320
+>>> End time: 2022-06-15 13:21:43.217320
+>>> Duration: 0:00:00.441000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:43.217320
+>>> End time: 2022-06-15 13:21:44.367322
+>>> Duration: 0:00:01.150002
+<<
+< Step 96 ended (duration: 0:00:01.591002)
+------------------
+
+> Executing step 97
+>> Running router on 96\str_sumo_096.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:44.380322
+>>> End time: 2022-06-15 13:21:44.803322
+>>> Duration: 0:00:00.423000
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:44.804321
+>>> End time: 2022-06-15 13:21:45.849323
+>>> Duration: 0:00:01.045002
+<<
+< Step 97 ended (duration: 0:00:01.469001)
+------------------
+
+> Executing step 98
+>> Running router on 97\str_sumo_097.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:45.871322
+>>> End time: 2022-06-15 13:21:46.227321
+>>> Duration: 0:00:00.355999
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:46.228323
+>>> End time: 2022-06-15 13:21:47.482321
+>>> Duration: 0:00:01.253998
+<<
+< Step 98 ended (duration: 0:00:01.610999)
+------------------
+
+> Executing step 99
+>> Running router on 98\str_sumo_098.rou.alt.xml
+>>> Begin time: 2022-06-15 13:21:47.515322
+>>> End time: 2022-06-15 13:21:47.916318
+>>> Duration: 0:00:00.400996
+<<
+>> Running simulation
+>>> Begin time: 2022-06-15 13:21:47.916318
+>>> End time: 2022-06-15 13:21:49.249321
+>>> Duration: 0:00:01.333003
+<<
+< Step 99 ended (duration: 0:00:01.733999)
+------------------
+
+dua-iterate ended (duration: 0:03:17.448675)

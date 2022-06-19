@@ -1,0 +1,58 @@
+$i=1
+for(;$i -le 50;$i++)
+{
+    python main.py > output.txt
+}
+
+python duaIterate.py -t C:\Users\Local_Man\Desktop\Stolen Music\school stuff for college\RESEARCH\coding\SUMO\Selfless-Traffic-Routing-Testbed-master\configurations\str_sumo.rou.xml  -n C:\Users\Local_Man\Desktop\Stolen Music\school stuff for college\RESEARCH\coding\SUMO\Selfless-Traffic-Routing-Testbed-master\configurations\test_vehicle_only2.net.xml
+
+C:\Program Files (x86)\Eclipse\Sumo\bin\duarouter -t C:\Users\Local_Man\Desktop\Stolen Music\school stuff for college\RESEARCH\coding\SUMO\Selfless-Traffic-Routing-Testbed-master\configurations\str_sumo.rou.xml  -n C:\Users\Local_Man\Desktop\Stolen Music\school stuff for college\RESEARCH\coding\SUMO\Selfless-Traffic-Routing-Testbed-master\configurations\ test_vehicle_only2.net.xml
+
+python duaIterate.py -t str_sumo.rou.xml  -n test_vehicle_only2.net.xml
+
+python duaIterate.py -n C:\Users\Local_Man\Desktop\Stolen Music\school stuff for college\RESEARCH\coding\SUMO\Selfless-Traffic-Routing-Testbed-master\configurations\test_vehicle_only2.net.xml -t C:\Users\Local_Man\Desktop\Stolen Music\school stuff for college\RESEARCH\coding\SUMO\Selfless-Traffic-Routing-Testbed-master\configurations\str_sumo.rou.xml  
+
+
+.\duarouter.exe -n test_vehicles_only2.net.xml  -r str_sumo.rou.xml -o tooststr.rou.xml
+
+python dir'C:\ProgramFiles`(x86`)\Eclipse\Sumo\tools\assign\duaIterate.py' -n test_vehicles_only2.net.xml -r str_sumo.rou.xml
+
+tools/assign/duaIterate.py
+
+python tools/assign/duaIterate.py -n test_vehicles_only2.net.xml -r str_sumo.rou.xml
+python tools/assign/duaIterate.py -n test_vehicles_only2.net.xml -r static_trip.rou.xml
+
+ python randomTrips.py -n test_vehicle_only_4corners.net.xml -o tooststr.rou.xml 
+ works lmao
+
+
+
+ python randomTrips.py -n test_vehicles_only2.net.xml -o tooststr.rou.xml works lmao
+ 
+ .\duarouter.exe -n test_vehicles_only2.net.xml  -r tooststr.rou.xml -o tooststr2.rou.xml
+.\duarouter.exe -n test_vehicle_only_4corners.net.xml  -r tooststr.rou.xml -o tooststr2.rou.xml
+
+.\duarouter.exe -n test_vehicle_only_4corners.net.xml  -r static_trip.rou.xml -o static2.rou.xml -e 2000
+.\/configurations/duarouter.exe -n ./configurations/test_vehicle_only_4corners.net.xml  -r ./configurations/static_trip.rou.xml -o str_sumo.rou.xml -e 2000
+  python routecheck.py -n test_vehicles_only2.net.xml -f tooststr.rou.xml 
+.\duarouter.exe -n test_vehicle_only_4corners.net.xml  -r deadline_teste.rou.xml -o deadline_tested.rou.xml
+
+.\duarouter.exe -n test_vehicle_only_4corners.net.xml  -r str_sumo.rou.xml -o str_SUMO_test.rou.xml
+
+python duaIterate.py -t static2.rou.xml  -n test_vehicle_only_4corners.net.xml -l 100
+
+python ./Route_setup/Dua_temp/duaIterate.py -t ./configurations/'+filename+'  -n ./configurations/test_vehicle_only_4corners.net.xml -l 100
+
+python ./Route_setup/Dua_temp/duaIterate.py -t ./configurations/str_sumo.rou.xml -n ./configurations/test_vehicle_only_4corners.net.xml -l 100 -dp Route_setup/Dua_temp
+
+python duaIterate.py -t str_sumo.rou.xml  -n test_vehicle_only_4corners.net.xml -l 100
+
+python duaIterate_analysis.py dualog.txt
+
+
+
+python one-shot.py -f 10 -n test_vehicle_only_4corners.net.xml -t static_trip.rou.xml
+
+python duaIterate.py -t str_sumo.rou.xml  -n test_vehicle_only_4corners.net.xml -l 100
+
+python duaIterate.py -t str_sumo.rou.xml  -n The_Small_Grid2.net.xml -l 1 --dualog DUALOG --log LOG
