@@ -1,0 +1,13 @@
+<configuration>
+<!--Your comment-->
+<input>
+<net-file value="test_vehicle_only_4corners.net.xml"/>
+<route-files value="str_sumo.rou.xml"/>
+</input>
+<output> <netstate-dump value="test_dump.xml" /> </output>
+<time>
+<begin value="0"/>
+<end value="200000"/>
+</time>
+
+</configuration>
