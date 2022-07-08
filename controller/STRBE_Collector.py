@@ -74,7 +74,7 @@ class STRBE_Collector(RouteController):
     def __init__(self, connection_info,file_name,file_name2,vehicles,start_difference):
         super().__init__(connection_info)
         print("\nTime difference equals= ", start_difference)
-        csv2Data('./History/switch_information.csv')
+        #csv2Data('./History/switch_information.csv')
         num_switched = 0
         self.route_information={}   # of form [est_travel_time,#_vehs_sharing_route,num_edges,self.distance_of_route]
         #self.predictors = predictors

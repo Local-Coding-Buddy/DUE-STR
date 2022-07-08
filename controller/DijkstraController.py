@@ -33,10 +33,11 @@ class DijkstraPolicy(RouteController):
         for vehicle in vehicles:
             #print("{}: current - {}, destination - {}".format(vehicle.vehicle_id, vehicle.current_edge, vehicle.destination))
             decision_list = []
+            print("what the hell pox",self.connection_info)
             unvisited = {edge: 1000000000 for edge in self.connection_info.edge_list} # map of unvisited edges
             visited = {} # map of visited edges
             current_edge = vehicle.current_edge
-
+            
             current_distance = self.connection_info.edge_length_dict[current_edge]
             unvisited[current_edge] = current_distance
             path_lists = {edge: [] for edge in self.connection_info.edge_list} #stores shortest path to each edge using directions

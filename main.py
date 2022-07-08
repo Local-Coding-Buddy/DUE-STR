@@ -5,6 +5,8 @@ STR_SUMO.py, RouteController.py, Util.py, test.net.xml, test.rou.xml, myconfig.s
 print("what")
 from core.STR_SUMO import StrSumo
 from core.STR_SUMO_Meta_collector_plus import StrSumo_Meta_collector_plus
+
+from core.STR_SUMO_overall_performance import StrSumo_Overall
 import os
 import sys
 import copy
@@ -19,6 +21,7 @@ import core.Run_id
 from controller.New_Tom_Reader_Controller import NewPolicy_Reader
 from controller.STRBE_Controller import NewPolicy_Reader_STRBE
 from controller.STRBE_Collector import STRBE_Collector
+from controller.Reader_Controller import Reader
 from Route_setup.Make_Trips_file import *
 
 from core.target_vehicles_generation_protocols import *
@@ -117,6 +120,10 @@ def test_new_policy_Meta_Plus(vehicles,fiuela): #reader using meta SUMO
     scheduler = NewPolicy_Reader(init_connection_info,fiuela,Round_name)#going to add file name as another argument
     run_simulation_Meta_Plus(scheduler, vehicles)
     del scheduler
+    
+def test_Reader(vehicles,fiuela): # simplified reader
+    scheduler = Reader(init_connection_info,fiuela,Round_name)#going to add file name as another argument
+    run_simulation_Meta_RL(scheduler, vehicles,net_file, False)
 
 def test_new_policy_STRBE_Meta_Plus(vehicles,time_difference,predictors):# STRBE Controller
     print("Testing New Algorithm meta data collection Reader Route Controller")
@@ -155,6 +162,27 @@ def run_simulation(scheduler, vehicles):
     print("TRACI CLOSEING")
     traci.close()
 
+
+def run_simulation_Meta_RL(scheduler, vehicles,net_file,recording): # for real time STRRT
+    #net file is used to access the realtime data for a specific map, only implemented for this scheme atm
+    simulation = StrSumo_Overall(scheduler, init_connection_info, vehicles,Round_name_base+str(sufix),net_file,recording) 
+
+    traci.start([sumo_binary, "-c", "./configurations/myconfig.sumocfg", \
+                 "--tripinfo-output", "./configurations/trips.trips.xml", \
+                 "--fcd-output", "./configurations/testTrace.xml","--quit-on-end"])
+
+    step, total_time, end_number, deadlines_missed,deadline_ogretime,max_time,fin = simulation.run()
+
+    if end_number != 0:
+        print("Total timespan: {}, Average timespan: {}, Max Travel Time {}, total vehicle number: {}, Total Vehicles finished: {}\
+            ".format(step,str(total_time/end_number),max_time,str(end_number),str(fin)))
+        if deadlines_missed == 0:
+            print(str(deadlines_missed) + ' deadlines missed.' + " average time over deadline:"+ str(0))
+        else: 
+            print(str(deadlines_missed) + ' deadlines missed.' + " average time over deadline:"+str(deadline_ogretime/deadlines_missed+1))
+
+    print("TRACI CLOSEING")
+    traci.close()
 
 def run_simulation_Meta_Plus(scheduler, vehicles): # used in STRBE non-real time
 
@@ -257,6 +285,10 @@ if __name__ == "__main__":
         # test_new_policy_Meta_Plus(tom_vehicles2,file_name)
         # tom_vehicles2 = copy.deepcopy(tom_vehicles)
 
+        core.Run_id.run_id = "Dijkstras-Reader2"
+        test_Reader(tom_vehicles2,file_name)
+        tom_vehicles2 = copy.deepcopy(tom_vehicles)
+
 
         # core.Run_id.run_id = "static2_099.rou.xml"
         # test_new_policy_Meta_Plus(tom_vehicles2,file_name2)
@@ -265,7 +297,7 @@ if __name__ == "__main__":
         # core.Run_id.run_id = "STRBE_Collector"
         # test_new_policy_STRBE_collector_Meta_Plus(tom_vehicles2,file_name2)
         # tom_vehicles2 = copy.deepcopy(tom_vehicles)
-
+        #test_dijkstra_policy(tom_vehicles2)
     if os.path.isdir("./0"):
         for x in range(0,num_iterations):
             shutil.rmtree('./'+str(x))
